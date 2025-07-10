@@ -1,7 +1,6 @@
-Its a first project of my intership 
-where i made figam design completly by myself
+Converting Figma Design into HTML and CSS
 technologies used
-1) html
+1) HTML
 2) CSS
 
 ## screnshot
